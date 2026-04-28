@@ -33,7 +33,7 @@ face-denoising-unet/
 
 *Row 1: Noisy Input → Row 2: Denoised → Row 3: Sharpened → Row 4: Original Clean*
 
-![Denoising Results](Results-preview.jpg)
+![Denoising Results](Results-prerview.jpg)
 
 
 
