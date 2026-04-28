@@ -33,7 +33,7 @@ face-denoising-unet/
 
 *Row 1: Noisy Input → Row 2: Denoised → Row 3: Sharpened → Row 4: Original Clean*
 
-![Denoising Results](results/results_preview.png)
+![Denoising Results](results_preview.png)
 
 
 -----
@@ -47,7 +47,7 @@ face-denoising-unet/
 |Heavy (0.3) |26.6 dB| Good       |
 ###  Training Loss Curve
 
-![Loss Curve](results/loss_curve.png)
+![Loss Curve](loss_curve.png)
 
 
 >  PSNR > 25 dB across ALL noise levels = strong reconstruction quality
